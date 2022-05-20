@@ -1,10 +1,10 @@
 # Digital Business Card App
 
 A simple app that shows your personalized business card on your mobile phone.
-This app was created using Google's Flutter UI Toolkit which utilizes the
-programming language Dart.
+This app was created using Google's Flutter UI Toolkit which utilizes the Dart
+programming language.
 
-## Useful Flutter Resources
+## Some Useful Flutter Resources
 
 Documentation is always helpful when learning something new. Here are 
 some few resources to get you started if this is your first Flutter project:
