@@ -1,12 +1,13 @@
-# mi_card_flutter
+# Digital Business Card App
 
-A new Flutter project.
+A simple app that shows your personalized business card on your mobile phone.
+This app was created using Google's Flutter UI Toolkit which utilizes the
+programming language Dart.
 
-## Getting Started
+## Useful Flutter Resources
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Documentation is always helpful when learning something new. Here are 
+some few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
