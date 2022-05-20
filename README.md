@@ -4,6 +4,8 @@ A simple app that shows your personalized business card on your mobile phone.
 This app was created using Google's Flutter UI Toolkit which utilizes the Dart
 programming language.
 
+![gh_bus_card](https://user-images.githubusercontent.com/46517096/169586655-f45fc9b0-477c-4113-bf8b-a0bcb6c3fd93.png)
+
 ## Some Useful Flutter Resources
 
 Documentation is always helpful when learning something new. Here are 
